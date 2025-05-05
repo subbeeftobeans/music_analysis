@@ -1,2 +1,2 @@
 # music_analysis
-Analyzing my own Apple Music data and visualizing it
+In this project, I downloaded a csv file from  Apple Services.
