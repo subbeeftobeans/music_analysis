@@ -1,2 +1,3 @@
-"Station Id",Subscription?,Shared?,Created,"Last Modified",Deleted?,"Station Description"
-st.1569894532,false,true,2022-03-01T01:49:42.075Z,2022-03-01T01:49:42.433Z,No,"Query Station: jazz"
+version https://git-lfs.github.com/spec/v1
+oid sha256:247a798a45653072bd1165968ab518256d3b050b233fec63c92bd3b58a0a0ec3
+size 190
